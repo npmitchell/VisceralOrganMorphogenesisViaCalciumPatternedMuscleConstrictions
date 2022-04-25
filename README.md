@@ -1,5 +1,5 @@
 # VisceralOrganMorphogenesisViaCalciumPatternedMuscleConstrictions
-code for publication Visceral Organ Morphogenesis Via Calcium-Patterned Muscle Constrictions
+This repository contains code for publication Visceral Organ Morphogenesis Via Calcium-Patterned Muscle Constrictions, currently under review.
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
