@@ -1,6 +1,11 @@
 # VisceralOrganMorphogenesisViaCalciumPatternedMuscleConstrictions
 This repository contains code for publication Visceral Organ Morphogenesis Via Calcium-Patterned Muscle Constrictions, currently under review.
 
+Scripts for reproducing data/analysis in each figure are given in the main directory. 
+These scripts rely on classes, modules, and functions in the 'dependencies' directory.
+
+To reproduce the creation of processed data, other required dependencies are gptoolbox (https://github/com/alecjacobson/gptoolbox/) and toolbox_fast_marching (Gabriel Peyre 2009). 
+
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
